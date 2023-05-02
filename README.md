@@ -1,4 +1,4 @@
-# Sales Commission Kata
+# Sales Commission Kata - Prefer using more flexible version [here](https://github.com/SpiffInc/sales_commission_kata)
 
 ## Purpose
 
